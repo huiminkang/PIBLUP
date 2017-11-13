@@ -1,0 +1,3 @@
+ModelConstruct $2
+Preconditioner
+mpirun -n $1 PCGbyIOD
