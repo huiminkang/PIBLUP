@@ -1,0 +1,1 @@
+Compared to version 1.0, PIBLUP v1.1 added nearpd option to compute the nearest positive definite matrix of G in GBLUP and single-step GBLUP. This leads to a little change of Syntax in parameter file (see Description of COVFILE in user manual) and the preparation before running PIBLUP.
