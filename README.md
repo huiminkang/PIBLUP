@@ -4,7 +4,9 @@ To take full advantage of modern multicore and multiprocessor systems, two paral
 PIBLUP is written in C. The program will be actively maintained and new functions will be incorporated. If you have any questions and suggestions, please do not hesitate to contact us. 
 
 
-Directory program/ contains programs for PIBLUP v1.0.
+Directory program/ contains programs for PIBLUP v1.0. 
+Examples (parameter file) in directory example/ are for PIBLUP 1.0.
 
 
 Directory PIBLUPv1.1/ contains programs for PIBLUP v1.1 and its user manual.
+We added nearpd option to compute the nearest positive definite matrix of G in genoimc selection in PIBLUP v1.1. This leaded to a small change in syntax in parameter file.
